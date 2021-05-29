@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Daffa, I'm just person who interested with technology especially Mobile Development🤗
+My name is Daffa, I'm just person who interested with technology especially Mobile Development 🗿 Umm yeah, you can also contact me if you wanna be my friend or need something 🍒
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Instagram.com/dapoi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](Facebook.com/luthfi.d.prabowo)
 
 ### My Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
