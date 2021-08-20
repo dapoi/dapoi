@@ -16,4 +16,9 @@ My name is Daffa, I'm just person who interested with technology especially Mobi
 
 
 ### My Github Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&show_icons=true&theme=radical) ![Daffa's Stats](https://github-readme-stats.vercel.app/api?username=dapoi&count_private=true&show_icons=true&theme=radical) 
+<p align="left">
+<a href="https://github.com/dapoi">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dapoi&count_private=true&include_all_commits=true&show_icons=true&theme=radical"/>
+</a>
+</p>
