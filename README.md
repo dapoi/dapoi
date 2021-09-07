@@ -13,12 +13,3 @@ My name is Daffa, I'm just person who interested with technology 😍 You can co
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-
-### My Github Stats
-<p align="left">
-<a href="https://github.com/dapoi">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dapoi&count_private=true&include_all_commits=true&show_icons=true&theme=radical"/>
-</a>
-</p>
