@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-My name is Daffa, I'm just person who interested with technology 😍 You can contact me if you wanna be my friend or need something 🍒 Feel free to me 👋
+My name is Daffa, I'm just person who interested with technology 👌 You can contact me if you wanna be my friend or need something 🍒 Feel free to ask ✨
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luthfidaffa2202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfi-daffa-prabowo/)
