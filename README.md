@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 My name is Daffa, I'm just person who interested with technology 😍 You can contact me if you wanna be my friend or need something 🍒 Feel free to me 👋
 
