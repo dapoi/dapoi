@@ -1,45 +1,132 @@
-# Dapoi
+# Hi there, I'm Dapoi! 👋
 
-Welcome to the Dapoi repository! This project aims to [insert project aim here].
+[![GitHub followers](https://img.shields.io/github/followers/dapoi?label=Follow&style=social)](https://github.com/dapoi)
+[![GitHub stars](https://img.shields.io/github/stars/dapoi?label=Stars&style=social)](https://github.com/dapoi)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Featured Projects](#featured-projects)
-- [Languages Used](#languages-used)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to my GitHub profile! I'm a passionate **Android Developer** with expertise in modern Android development using Kotlin, Jetpack Compose, and clean architecture principles.
 
-## Introduction
+## 🚀 About Me
 
-Dapoi is designed to [insert introduction here]. With a focus on [insert focus area], it provides [insert features].
+I'm an Android Developer focused on creating efficient, scalable, and user-friendly mobile applications. I enjoy working with the latest Android technologies and sharing knowledge with the developer community through open-source projects and educational content.
 
-## Features
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
+- 🔭 Currently working on Android applications using **Jetpack Compose** and **Kotlin**
+- 🌱 Learning and exploring **modern Android architecture patterns** and **best practices**
+- 👨‍💻 Passionate about **clean code**, **MVVM architecture**, and **modular app development**
+- 📱 Specialized in **native Android development** with focus on **performance** and **user experience**
+- 🎯 Goal: Contributing to the Android development community and building impactful mobile solutions
 
-## Getting Started
+## 🛠️ Tech Stack
 
-To get started with Dapoi, follow these steps:
-1. Clone the repository: `git clone https://github.com/dapoi/dapoi.git`
-2. Install the dependencies: `npm install`
-3. Start the application: `npm start`
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## Featured Projects
-- **Project 1**: [Brief description]
-- **Project 2**: [Brief description]
-- **Project 3**: [Brief description]
+### Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Languages Used
+### Architecture & Patterns
+- **MVVM** (Model-View-ViewModel)
+- **Clean Architecture**
+- **Modularization**
+- **Navigation Component**
+- **Data Binding & View Binding**
 
-![Languages](https://img.shields.io/github/languages/top/dapoi/dapoi)
+### Libraries & Frameworks
+- **Jetpack Compose** - Modern UI toolkit
+- **Retrofit** - HTTP client
+- **Room** - Local database
+- **Dagger Hilt** - Dependency injection
+- **Coroutines** - Asynchronous programming
+- **ExoPlayer** - Media playback
+- **DataStore** - Data storage solution
 
-## Contributing
+## 🌟 Featured Projects
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+### 🎨 [Jetpack Compose Starter Template](https://github.com/dapoi/Jetpack-Compose-Starter-Template)
+![Stars](https://img.shields.io/github/stars/dapoi/Jetpack-Compose-Starter-Template)
+![Forks](https://img.shields.io/github/forks/dapoi/Jetpack-Compose-Starter-Template)
 
-## License
+A comprehensive Jetpack Compose starter project designed to streamline development with best practices and modularization. Perfect for developers looking to build modern Android apps faster and smarter.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Modularization`
+
+### 📱 [MEVER](https://github.com/dapoi/MEVER)
+![Stars](https://img.shields.io/github/stars/dapoi/MEVER)
+![Forks](https://img.shields.io/github/forks/dapoi/MEVER)
+
+A modern Android application showcasing advanced Kotlin development techniques and architectural patterns.
+
+**Tech Stack:** `Kotlin` `Android`
+
+### 🕌 [Muslim-Q](https://github.com/dapoi/Muslim-Q)
+![Stars](https://img.shields.io/github/stars/dapoi/Muslim-Q)
+![Forks](https://img.shields.io/github/forks/dapoi/Muslim-Q)
+
+An Android application designed for Muslim community needs in Indonesia, featuring prayer times, Quran, and other Islamic tools.
+
+**Tech Stack:** `Kotlin` `MVVM` `Navigation Component` `Single Activity Architecture`
+
+### 💊 [SELAMATKAN](https://github.com/dapoi/SELAMATKAN)
+A healthcare-focused Android application aimed at helping the community through technology solutions in the healthcare sector.
+
+**Tech Stack:** `Kotlin` `Clean Architecture` `MVVM`
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dapoi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapoi&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🎓 Learning Projects & Submissions
+
+I actively participate in learning programs and create educational content:
+
+- **Android Developer Expert** submissions (Dicoding)
+- **Android Jetpack** development courses
+- **Flutter** development projects
+- **Android Fundamental** learning paths
+- Various **sample projects** and **prototypes**
+
+## 📫 Let's Connect
+
+- 📧 Email: [Your Email] <!-- Replace with actual email -->
+- 💼 LinkedIn: [Your LinkedIn] <!-- Replace with actual LinkedIn -->
+- 🐦 Twitter: [Your Twitter] <!-- Replace with actual Twitter -->
+- 📱 Telegram: [Your Telegram] <!-- Replace with actual Telegram -->
+
+## 🤝 Contributing
+
+I'm always open to collaboration and contributions! Feel free to:
+
+- ⭐ Star my repositories if you find them helpful
+- 🐛 Report bugs or issues
+- 💡 Suggest new features or improvements
+- 🔄 Submit pull requests
+- 📢 Share my projects with others
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dapoi&theme=react-dark)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dapoi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+</div>
