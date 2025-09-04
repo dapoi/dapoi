@@ -100,10 +100,14 @@ I actively participate in learning programs and create educational content:
 
 ## 📫 Let's Connect
 
-- 📧 Email: [Your Email] <!-- Replace with actual email -->
-- 💼 LinkedIn: [Your LinkedIn] <!-- Replace with actual LinkedIn -->
-- 🐦 Twitter: [Your Twitter] <!-- Replace with actual Twitter -->
-- 📱 Telegram: [Your Telegram] <!-- Replace with actual Telegram -->
+Feel free to reach out for collaboration, questions, or just to say hi!
+
+- 📧 **Email:** [Add your email here]
+- 💼 **LinkedIn:** [Add your LinkedIn profile]
+- 🐦 **Twitter:** [Add your Twitter handle]
+- 📱 **Telegram:** [Add your Telegram username]
+
+> 💡 **Note:** Update the contact information above with your actual details
 
 ## 🤝 Contributing
 
