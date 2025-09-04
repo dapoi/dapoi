@@ -1,25 +1,45 @@
-## Hi, there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
+# Dapoi
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luthfidaffa2202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfi-daffa-prabowo/)
+Welcome to the Dapoi repository! This project aims to [insert project aim here].
 
-### 🎮 Pacman Game
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Featured Projects](#featured-projects)
+- [Languages Used](#languages-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+## Introduction
 
-### My Skills
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+Dapoi is designed to [insert introduction here]. With a focus on [insert focus area], it provides [insert features].
 
-### Stats
-<p align="left">
-<a href="https://github.com/dapoi">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dapoi&count_private=true&include_all_commits=true&show_icons=true&theme=radical"/>
-</a>
-</p>
+## Features
+- Feature 1: [Description]
+- Feature 2: [Description]
+- Feature 3: [Description]
+
+## Getting Started
+
+To get started with Dapoi, follow these steps:
+1. Clone the repository: `git clone https://github.com/dapoi/dapoi.git`
+2. Install the dependencies: `npm install`
+3. Start the application: `npm start`
+
+## Featured Projects
+- **Project 1**: [Brief description]
+- **Project 2**: [Brief description]
+- **Project 3**: [Brief description]
+
+## Languages Used
+
+![Languages](https://img.shields.io/github/languages/top/dapoi/dapoi)
+
+## Contributing
+
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
