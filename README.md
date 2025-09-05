@@ -19,6 +19,64 @@
   </a>
 </div>
 
+## 🎮 Pacman Game Zone
+
+<div align="center">
+  
+```html
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" fill="#000"/>
+  
+  <!-- Dots -->
+  <circle cx="50" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="50" r="3" fill="#FFFF00">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Pacman -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 320,0; 0,0" dur="4s" repeatCount="indefinite"/>
+    <circle cx="30" cy="50" r="15" fill="#FFFF00"/>
+    <polygon points="30,50 45,40 45,60" fill="#000">
+      <animateTransform attributeName="transform" type="rotate" values="0 30 50; 30 30 50; 0 30 50" dur="0.5s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="25" cy="45" r="2" fill="#000"/>
+  </g>
+  
+  <!-- Ghost -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="400,0; 80,0; 400,0" dur="4s" begin="2s" repeatCount="indefinite"/>
+    <rect x="355" y="35" width="20" height="25" rx="10" ry="10" fill="#FF1493"/>
+    <polygon points="355,60 360,50 365,60 370,50 375,60" fill="#FF1493"/>
+    <circle cx="360" cy="45" r="2" fill="#FFF"/>
+    <circle cx="370" cy="45" r="2" fill="#FFF"/>
+    <circle cx="360" cy="45" r="1" fill="#000"/>
+    <circle cx="370" cy="45" r="1" fill="#000"/>
+  </g>
+</svg>
+```
+
+**🕹️ Wanna play? Here's a fun Pacman moment while you browse my repos!**
+
+</div>
+
 ## 🚀 Featured Projects
 
 - **[MEVER](https://github.com/dapoi/MEVER)** - Content downloader app
