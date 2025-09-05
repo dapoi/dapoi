@@ -47,8 +47,6 @@
 
 **Drop me a line, let's build something awesome together! 🚀**
 
-<br>
-
 <a href="mailto:daffaprabowo5@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -57,8 +55,8 @@
 </a>
 <a href="https://instagram.com/dapoi_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-  
-**💖 Thanks for stopping by! Happy coding! 🎉**
+</a>  
+
+## 💖 Thanks for stopping by! Happy coding! 🎉**
 
 <img src="https://komarev.com/ghpvc/?username=dapoi&style=for-the-badge&color=blueviolet" alt="Profile views"/>
