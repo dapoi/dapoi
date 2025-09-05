@@ -1,94 +1,80 @@
-<div align="center">
-  Hi there 👋, I'm Daffa a passionate developer who loves android development. I enjoy creating useful applications and contributing to open source projects that can help others!
-  <br><br>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/android-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <br><br>
+# 👋 Hey there! I'm Daffa
 
-  You can reach me here:<br><br>
-  <a href="mailto:daffaprabowo5@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/dapoi" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  </a>
-  <a href="https://instagram.com/dapoi" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+### 🤖 Android Developer | 🎯 Kotlin Enthusiast | 🚀 Open Source Contributor
+
+*Passionate developer who loves crafting amazing Android experiences and building tools that make developers' lives easier!*
+
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/android-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+
+## 🚀 Open Source Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🎬 [MEVER](https://github.com/dapoi/MEVER)**
+> Content downloader app with sleek UI
+- 📱 Modern Android architecture
+- 🎨 Beautiful Material Design
+- ⚡ Fast & efficient downloads
+
+</td>
+<td width="50%">
+
+**🏗️ [Jetpack Compose Starter](https://github.com/dapoi/Jetpack-Compose-Starter-Template)**
+> Ready-to-rock Android template  
+- 🎯 Best practices included
+- 🧪 Testing setup ready
+- 🔧 Module generated
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+<br><br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Android Development**
+<br><br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+**Backend & Database**
+<br><br>
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+## 📊 GitHub Analytics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dapoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🎮 Pacman Game Zone
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dapoi&theme=tokyonight&hide_border=true" width="98%"/>
 
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dapoi&theme=tokyonight&no-frame=true&column=7" width="98%"/>
+
+## 📫 Let's Connect!
+
+**Drop me a line, let's build something awesome together! 🚀**
+
+<br>
+
+<a href="mailto:daffaprabowo5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://t.me/dapoii">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://instagram.com/dapoi_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
   
-```html
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="100" fill="#000"/>
-  
-  <!-- Dots -->
-  <circle cx="50" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="100" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="150" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="0.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="300" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="350" cy="50" r="3" fill="#FFFF00">
-    <animate attributeName="opacity" values="1;0;1" dur="2s" begin="1.2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Pacman -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 320,0; 0,0" dur="4s" repeatCount="indefinite"/>
-    <circle cx="30" cy="50" r="15" fill="#FFFF00"/>
-    <polygon points="30,50 45,40 45,60" fill="#000">
-      <animateTransform attributeName="transform" type="rotate" values="0 30 50; 30 30 50; 0 30 50" dur="0.5s" repeatCount="indefinite"/>
-    </polygon>
-    <circle cx="25" cy="45" r="2" fill="#000"/>
-  </g>
-  
-  <!-- Ghost -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="400,0; 80,0; 400,0" dur="4s" begin="2s" repeatCount="indefinite"/>
-    <rect x="355" y="35" width="20" height="25" rx="10" ry="10" fill="#FF1493"/>
-    <polygon points="355,60 360,50 365,60 370,50 375,60" fill="#FF1493"/>
-    <circle cx="360" cy="45" r="2" fill="#FFF"/>
-    <circle cx="370" cy="45" r="2" fill="#FFF"/>
-    <circle cx="360" cy="45" r="1" fill="#000"/>
-    <circle cx="370" cy="45" r="1" fill="#000"/>
-  </g>
-</svg>
-```
+**💖 Thanks for stopping by! Happy coding! 🎉**
 
-**🕹️ Wanna play? Here's a fun Pacman moment while you browse my repos!**
-
-</div>
-
-## 🚀 Featured Projects
-
-- **[MEVER](https://github.com/dapoi/MEVER)** - Content downloader app
-- **[Jetpack Compose Starter Template](https://github.com/dapoi/Jetpack-Compose-Starter-Template)** - Ready-to-use template for Android development
-
-<details>
-  <summary>📊 My stats in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=dapoi&show_icons=true&theme=default">
-  <img src="https://github-profile-trophy.vercel.app/?username=dapoi&theme=flat">
-</details>
-
-<details>
-  <summary>📈 Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&theme=default">
-</details>
+<img src="https://komarev.com/ghpvc/?username=dapoi&style=for-the-badge&color=blueviolet" alt="Profile views"/>
