@@ -4,7 +4,10 @@
 
 *Passionate developer who loves crafting amazing Android experiences and building tools that make developers' lives easier!*
 
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/android-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 ## 🚀 Open Source Projects
 
@@ -30,25 +33,6 @@
 </td>
 </tr>
 </table>
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-<br><br>
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-**Android Development**
-<br><br>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
-**Backend & Database**
-<br><br>
-![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📊 GitHub Analytics
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dapoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
