@@ -34,15 +34,6 @@
 </tr>
 </table>
 
-## 📊 GitHub Analytics
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dapoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapoi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dapoi&theme=tokyonight&hide_border=true" width="98%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dapoi&theme=tokyonight&no-frame=true&column=7" width="98%"/>
-
 ## 📫 Let's Connect!
 
 **Drop me a line, let's build something awesome together! 🚀**
